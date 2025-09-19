@@ -26,10 +26,12 @@ This project implements a **conditional Generative Adversarial Network (cGAN)** 
 - L1 Loss: **0.0647**  
 - PSNR: **25.68 dB**  
 - SSIM: **0.6895**
+- 
 **Test Set:**  
 - L1 Loss: **0.0639**  
 - PSNR: **25.86 dB**  
 - SSIM: **0.6958**
+- 
 **Qualitative:**  
 <img width="1122" height="619" alt="image" src="https://github.com/user-attachments/assets/4bae1ff4-f913-4037-b6b4-c2a08a6f84bc" />
 <img width="1159" height="618" alt="image" src="https://github.com/user-attachments/assets/227529fc-384e-4e42-ac28-4113947e3832" />

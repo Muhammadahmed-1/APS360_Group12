@@ -20,6 +20,7 @@ This project implements a **conditional Generative Adversarial Network (cGAN)** 
 ---
 ## Hyperparameter Tuning 
 <img width="1128" height="746" alt="image" src="https://github.com/user-attachments/assets/c4224814-17d9-4047-b466-18a21e1b7d4a" />
+
 ## Results
 **Quantitative (Validation Set):**
 - L1 Loss: **0.0647**  
